@@ -30,3 +30,5 @@ Logistic Regression performed best on the test set.
 - Expected goals (xG)
 - Player availability
 - Team ELO ratings
+- More features
+- App / Dashboard
